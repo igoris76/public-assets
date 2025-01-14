@@ -58,7 +58,7 @@
           "logo": "https://raw.githubusercontent.com/hiddify/hiddify.com/main/docs/assets/hiddify-app-logo.svg",
           "description": "1. Скачайте программу по ссылке ниже. 2. Добавьте конфигурацию.",
           "faDescription": "V2rayNG یک کلاینت V2Ray برای دستگاه‌های اندرویدی است.",
-          "configLink": "hiddify://import/${fullUrl}#${subname}_Sub",
+          "configLink": "hiddify://import/${linkFull}",
           "downloadLink": "https://play.google.com/store/apps/details?id=app.hiddify.com",
           "videoLink": "https://example.com/v2rayng-video"
         }
